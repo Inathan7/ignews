@@ -6,7 +6,7 @@ import { getPrismicClient } from "../../services/prismic";
 
 import styles from './post.module.scss';
 
-interface PostProps {
+export interface PostProps {
     post: {
         slug: string;
         title: string;

@@ -1,5 +1,4 @@
-import { SingInButton } from '../SingInButton';
-import Link from 'next/link';
+import { SingInButton } from '../SignInButton';
 
 import styles from './styles.module.scss';
 import { ActiveLink } from '../ActiveLink';
